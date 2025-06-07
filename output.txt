@@ -1,0 +1,19 @@
+Model A.D. Param#: 8327424
+Model A.D. Param#: 8327424
+Model A.D. Param#: 8327424
+Epoch 1 - Step 23: loss = -1785956.625(-1785956.625)
+Model A.D. Param#: 8327424
+Epoch 1 - Step 23: loss = -1308312.500(-1308312.500)
+Model A.D. Param#: 8327424
+Epoch 1 - Step 23: loss = -1622757.000(-1622757.000)
+Model A.D. Param#: 8327424
+Model A.D. Param#: 8327424
+Epoch 1 - Step 23: loss = -1712676.875(-1712676.875)
+Epoch 2 - Step 23: loss = -2430466.250(-2430466.250)
+Epoch 3 - Step 23: loss = -2640271.000(-2640271.000)
+Epoch 4 - Step 23: loss = -2927323.000(-2927323.000)
+Model A.D. Param#: 8327424
+Model A.D. Param#: 8327424
+Epoch 1 - Step 10: loss = -653051.000(72474.514)
+Epoch 1 - Step 20: loss = -1426938.125(-546046.834)
+Epoch 1 - Step 23: loss = -1496861.750(-666331.024)

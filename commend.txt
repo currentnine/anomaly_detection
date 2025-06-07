@@ -1,0 +1,8 @@
+학습
+python main.py --cat swir--config configs/resnet18.yaml --data C:\bilel\FastFlow\mvtec-ad
+
+테스트
+python main.py --eval --checkpoint 05_16.pt --data D:/idcard_TF_Classification/anomalib/datasets/MVtec --category window --config configs/resnet18.yaml
+# train
+python main.py -cfg configs/resnet18.yaml --data C:\bilel\FastFlow\mvtec-ad\ -cat bottle
+conda activate anomalib

@@ -1,0 +1,7 @@
+The training is start ......
+Model A.D. Param#: 5574912
+Epoch 1 - Step 32: loss = -705269.88(-705269.88)
+Epoch 2 - Step 32: loss = -927917.69(-927917.69)
+Epoch 3 - Step 32: loss = -1032561.81(-1032561.81)
+Epoch 4 - Step 32: loss = -1128623.25(-1128623.25)
+The training is STOP ....!
